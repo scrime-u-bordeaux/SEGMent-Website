@@ -1,7 +1,6 @@
-theme: jekyll-theme-minimal
-
 #Site settings
 title: SEGMent
 email: contact-scrime@u-bordeaux.fr
 
 url: "http://localhost:4000" # the base hostname & protocol for your site
+include: ["_pages"]
